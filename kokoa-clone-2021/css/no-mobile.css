@@ -1,0 +1,17 @@
+#no-moblie {
+  background-color: var(--yellow);
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@media screen and (max-width: 400px) {
+  #no-moblie {
+    display: none;
+  }
+}
