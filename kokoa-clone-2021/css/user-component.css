@@ -25,7 +25,7 @@
 .user-component_avatar_sm {
   width: 45px;
   height: 45px;
-  border-radius: 20%;
+  border-radius: 40%;
 }
 .user-component-title--not-bold {
   font-weight: 300;
